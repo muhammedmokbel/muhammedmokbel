@@ -41,30 +41,30 @@ I specialize in:
 
 ## 💼 Experience
 
--  **[Senior Front-end Engineer]** at [Watania Solutions Co.]
+**[Senior Front-end Engineer]** at [Watania Solutions Co.]
   *[Oct/2023] - [present]*  
-- developed a micro frontend architecture that improved system modularity and 
-  reduced dependencies between components
-- Keeping up with good code quality across the team and with our coding guidelines contribute to them and optimize.
-- Cooperating with other squads.
-- Improved coding of React , JavaScript and CSS to enhance user experience and 
-functionality.
+  - developed a micro frontend architecture that improved system modularity and 
+    reduced dependencies between components
+  - Keeping up with good code quality across the team and with our coding guidelines contribute to them and optimize.
+  - Cooperating with other squads.
+  - Improved coding of React , JavaScript and CSS to enhance user experience and 
+  functionality.
 
   
--  **[Senior Front-end Engineer]** at [Voyance]  
+**[Senior Front-end Engineer]** at [Voyance]  
   *[Sept/2021] - [Oct/2023]*  
- - Leading and mentoring team in both soft and technical skills.
- - Keeping up with good code quality across the team and with our coding guidelines contribute to them and optimize.
- - Setting up development plans for the team.
- - Cooperating with other team managers.
- - Designed user-friendly software to improve accessibility and responsiveness.
- - Optimized websites to improve backward and cross-browser compatibility.
- - Reviewed proposed UI and UX designs for technical feasibility by collaborating with 
-   back-end development personnel.
- - Developed web applications using Agile and continuous delivery processes to 
-   refine the quality and improve output.
- - Improved coding of JavaScript and CSS to enhance user experience and 
-   functionality.
+   - Leading and mentoring team in both soft and technical skills.
+   - Keeping up with good code quality across the team and with our coding guidelines contribute to them and optimize.
+   - Setting up development plans for the team.
+   - Cooperating with other team managers.
+   - Designed user-friendly software to improve accessibility and responsiveness.
+   - Optimized websites to improve backward and cross-browser compatibility.
+   - Reviewed proposed UI and UX designs for technical feasibility by collaborating with 
+     back-end development personnel.
+   - Developed web applications using Agile and continuous delivery processes to 
+     refine the quality and improve output.
+   - Improved coding of JavaScript and CSS to enhance user experience and 
+     functionality.
 
 
 ## 📫 Get in Touch
