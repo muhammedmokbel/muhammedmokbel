@@ -1,13 +1,58 @@
-<h1 align="center">Hi 👋, I'm Muhammed Mokbel</h1>
-<h3 align="center">I am a passionate Software Engineer with 5 years of experience in front-end development and an additional year in leading teams. My expertise spans a wide range</h3>
+# 👋 Hello, I'm [Your Name]!
 
-- 📫 How to reach me **mohamedmokbel97@gmail.com**
+I'm a passionate Front-end Engineer with **5 years of experience** in crafting exceptional user experiences and building responsive, user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to deliver high-quality solutions tailored to client needs.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-mokbel-33573a140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mokbel-33573a140" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamedmokbel97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedmokbel97" height="30" width="40" /></a>
-</p>
+## 🚀 Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Languages**: 
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  
+- **Frameworks & Libraries**:
+  - React.js
+  - Next js
+  - Bootstrap
+  - Tailwind CSS
+  
+- **Tools & Technologies**:
+  - Git & GitHub
+  - Webpack
+  - RESTful APIs
+  - Responsive Design
+  - postman
+
+- **Design**:
+  - Figma
+  - Adobe XD
+  - UX/UI Principles
+
+## 🌟 What I Do
+
+I specialize in:
+- Developing clean, maintainable, and scalable code.
+- Creating responsive designs that look great on all devices.
+- Collaborating with cross-functional teams to deliver high-quality products.
+- Continuously learning and keeping up with the latest web technologies and trends.
+
+## 💼 Experience
+
+- **[Your Previous Job Title]** at [Company Name]  
+  *[Month/Year] - [Month/Year]*  
+  - Lead a team of developers to deliver innovative web solutions.
+  - Enhanced user experiences through modern web practices.
+  
+- **[Your Previous Job Title]** at [Company Name]  
+  *[Month/Year] - [Month/Year]*  
+  - Developed and maintained multiple web applications.
+  - Worked closely with designers and stakeholders to translate requirements into functional applications.
+
+## 📫 Get in Touch
+
+I'm always open to new opportunities and collaborations. Feel free to connect with me!
+
+- **Email**: [your.email@example.com]
+- **LinkedIn**: [your-linkedin-url]
+- **Portfolio**: [your-portfolio-url]
+
+Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
