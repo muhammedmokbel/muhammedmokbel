@@ -42,13 +42,13 @@ I specialize in:
 ## 💼 Experience
 
 **[Senior Front-end Engineer]** at [Watania Solutions Co.]
-*[Oct/2023] - [present]*  
+  *[Oct/2023] - [present]*  
     - developed a micro frontend architecture that improved system modularity and 
       reduced dependencies between components
     - Keeping up with good code quality across the team and with our coding guidelines contribute to them and optimize.
     - Cooperating with other squads.
     - Improved coding of React , JavaScript and CSS to enhance user experience and 
-    functionality.
+      functionality.
 
   
 **[Senior Front-end Engineer]** at [Voyance]  
