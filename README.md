@@ -13,6 +13,8 @@ I'm a passionate Front-end Engineer with **5 years of experience** in crafting e
 - **Frameworks & Libraries**:
   - React.js
   - Next js
+  - Redux
+  - RTK & RTK Query
   - Bootstrap
   - Tailwind CSS
   - ant design
@@ -22,7 +24,6 @@ I'm a passionate Front-end Engineer with **5 years of experience** in crafting e
   - Git & GitHub
   - Webpack
   - RESTful APIs
-  - Responsive Design
   - postman
 
 - **Design**:
