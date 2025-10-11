@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammed Mokbel!
 
-I'm a passionate Front-end Engineer with **5 years of experience** in crafting exceptional user experiences and building responsive, user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to deliver high-quality solutions tailored to client needs.
+I'm a passionate Front-end Engineer with **6 years of experience** in crafting exceptional user experiences and building responsive, user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to deliver high-quality solutions tailored to client needs.
 
 ## 🚀 Skills & Technologies
 
