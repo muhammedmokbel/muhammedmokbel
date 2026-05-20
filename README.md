@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammed Mokbel!
 
-I'm a passionate Front-end Engineer with **6 years of experience** in crafting exceptional user experiences and building responsive, user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to deliver high-quality solutions tailored to client needs.
+I'm a passionate Senior Software Engineer with **6 years of experience** in crafting exceptional user experiences and building responsive, user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to deliver high-quality solutions tailored to client needs.
 
 ## 🚀 Skills & Technologies
 
@@ -19,6 +19,10 @@ I'm a passionate Front-end Engineer with **6 years of experience** in crafting e
   - Tailwind CSS
   - Ant Design
   - MUI
+  - Node js
+  - Express
+  - Mongodb
+  - micro services 
   
 - **Tools & Technologies**:
   - Git & GitHub
@@ -38,6 +42,8 @@ I specialize in:
 - Creating responsive designs that look great on all devices.
 - Collaborating with cross-functional teams to deliver high-quality products.
 - Continuously learning and keeping up with the latest web technologies and trends.
+- Designing and integrating RESTful APIs, backend services, and database-driven systems
+- Optimizing application performance, security, and overall user experience.
 
 ## 💼 Experience
 
