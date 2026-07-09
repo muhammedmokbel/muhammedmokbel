@@ -13,6 +13,8 @@ I'm a passionate Senior Software Engineer with **6 years of experience** in craf
 - **Frameworks & Libraries**:
   - React.js
   - Next.js
+  - MFEs
+  - Angular 2+
   - Redux
   - RTK & RTK Query
   - Bootstrap
